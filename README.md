@@ -1,1 +1,1 @@
-A unique color combo according to your mood.
+Select a mood from the drop-down menu and the page will change color. The three moods that you can choose between are happy, sad, and passionate. If your mood changes, just simply select another mood for the page to change again.
