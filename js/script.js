@@ -2,7 +2,7 @@ var moodList = document.querySelector("select");
 var mood = "happy";
 
 moodList.addEventListener("change", function (e) {
-    mood = e.target.value; 
+   mood = e.target.value;
    if (mood === "happy") {
       document.body.classList.remove("sad", "passionate");
       document.body.classList.add("happy");
